@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Software Engineering at 42 Wolfsburg
 - 📫 How to reach me: zulfiqor.khojazoda@gmail.com
-- ⚡ Fun fact: I will go into game development but I haven't been playing games for sometime now
+- ⚡ Fun fact: I will go into game development but I haven't been playing games for several years already
 
 <!--
 **jonona912/jonona912** will be a ✨ place of innovative s ✨ repository because its `README.md` (this file) appears on your GitHub profile.
