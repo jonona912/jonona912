@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Software Engineering at 42 Wolfsburg
 - 📫 How to reach me: zulfiqor.khojazoda@gmail.com
-- ⚡ Goal: to learn AI and Data Science
+- ⚡ Goal: Build innovative and scalable software solutions to solve real-world problems.
 
 <!--
 **jonona912/jonona912** will be a ✨ place of innovative s ✨ repository because its `README.md` (this file) appears on your GitHub profile.
