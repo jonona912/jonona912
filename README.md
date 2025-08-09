@@ -3,8 +3,8 @@
   I am from Tajikistan 🇹🇯<br>
   BSs in Earth and Environmental Sciences 🌍<br>
   MSs in Soil Sciences 🌱<br>
-  I’m currently learning Software Engineering at 42 Wolfsburg 💻
-  Goal: Build innovative and scalable software solutions to solve real-world problems ⚡
+  I’m currently learning Software Engineering at 42 Wolfsburg 💻<br>
+  Goal: Build innovative and scalable software solutions to solve real-world problems ⚡<br>
 </p>
 
 <!--
